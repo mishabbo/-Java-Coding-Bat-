@@ -1,0 +1,111 @@
+/* ==================== String-1 Templates ==================== */
+
+/*
+ * CodingBat → String-1 → helloName
+ * https://codingbat.com/prob/p171896
+ *
+ * Description:
+ * Return "Hello <name>!".
+ *
+ * Author: <Your Name>
+*/
+
+/*
+ * CodingBat → String-1 → makeAbba
+ * https://codingbat.com/prob/p161056
+ *
+ * Description:
+ * Return A+B+B+A combination.
+ *
+ * Author: <Your Name>
+*/
+
+/*
+ * CodingBat → String-1 → makeTags
+ * https://codingbat.com/prob/p147483
+ *
+ * Description:
+ * Wrap word inside HTML-style tags.
+ *
+ * Author: <Your Name>
+*/
+
+/*
+ * CodingBat → String-1 → makeOutWord
+ * https://codingbat.com/prob/p129981
+ *
+ * Description:
+ * Insert word into the middle of outer string.
+ *
+ * Author: <Your Name>
+*/
+
+/*
+ * CodingBat → String-1 → extraEnd
+ * https://codingbat.com/prob/p108853
+ *
+ * Description:
+ * Return 3 copies of last 2 chars.
+ *
+ * Author: <Your Name>
+*/
+
+/*
+ * CodingBat → String-1 → firstTwo
+ * https://codingbat.com/prob/p184030
+ *
+ * Description:
+ * Return first 2 chars or entire string if shorter.
+ *
+ * Author: <Your Name>
+*/
+
+/*
+ * CodingBat → String-1 → firstHalf
+ * https://codingbat.com/prob/p105745
+ *
+ * Description:
+ * Return first half of string (even length guaranteed).
+ *
+ * Author: <Your Name>
+*/
+
+/*
+ * CodingBat → String-1 → withoutEnd
+ * https://codingbat.com/prob/p130896
+ *
+ * Description:
+ * Remove first and last chars of string.
+ *
+ * Author: <Your Name>
+*/
+
+/*
+ * CodingBat → String-1 → comboString
+ * https://codingbat.com/prob/p168564
+ *
+ * Description:
+ * Short+Long+Short combination.
+ *
+ * Author: <Your Name>
+*/
+
+/*
+ * CodingBat → String-1 → nonStart
+ * https://codingbat.com/prob/p127703
+ *
+ * Description:
+ * Concatenate strings except for first char of each.
+ *
+ * Author: <Your Name>
+*/
+
+/*
+ * CodingBat → String-1 → left2
+ * https://codingbat.com/prob/p130781
+ *
+ * Description:
+ * Rotate left by 2 positions.
+ *
+ * Author: <Your Name>
+*/
