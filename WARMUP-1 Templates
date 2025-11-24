@@ -1,0 +1,121 @@
+/* ==================== Warmup-1 Templates ==================== */
+
+/*
+ * CodingBat → Warmup-1 → sleepIn
+ * https://codingbat.com/prob/p187868
+ *
+ * Description:
+ * Return true if we sleep in when it's not a weekday or we're on vacation.
+ *
+ * Author: <Your Name>
+*/
+ 
+/*
+ * CodingBat → Warmup-1 → monkeyTrouble
+ * https://codingbat.com/prob/p120546
+ *
+ * Description:
+ * Return true if both monkeys are smiling or neither are smiling.
+ *
+ * Author: <Your Name>
+*/
+ 
+/*
+ * CodingBat → Warmup-1 → sumDouble
+ * https://codingbat.com/prob/p154485
+ *
+ * Description:
+ * Return sum, but double it if values are equal.
+ *
+ * Author: <Your Name>
+*/
+ 
+/*
+ * CodingBat → Warmup-1 → diff21
+ * https://codingbat.com/prob/p116624
+ *
+ * Description:
+ * Return absolute difference from 21, double if over 21.
+ *
+ * Author: <Your Name>
+*/
+ 
+/*
+ * CodingBat → Warmup-1 → parrotTrouble
+ * https://codingbat.com/prob/p166884
+ *
+ * Description:
+ * Return true if the parrot is talking before 7 or after 20.
+ *
+ * Author: <Your Name>
+*/
+ 
+/*
+ * CodingBat → Warmup-1 → makes10
+ * https://codingbat.com/prob/p124984
+ *
+ * Description:
+ * Return true if either value is 10 or their sum is 10.
+ *
+ * Author: <Your Name>
+*/
+ 
+/*
+ * CodingBat → Warmup-1 → nearHundred
+ * https://codingbat.com/prob/p184004
+ *
+ * Description:
+ * Return true if value is within 10 of 100 or 200.
+ *
+ * Author: <Your Name>
+*/
+ 
+/*
+ * CodingBat → Warmup-1 → posNeg
+ * https://codingbat.com/prob/p162058
+ *
+ * Description:
+ * Return true depending on signs; if negative flag, both must be negative.
+ *
+ * Author: <Your Name>
+*/
+ 
+/*
+ * CodingBat → Warmup-1 → notString
+ * https://codingbat.com/prob/p191914
+ *
+ * Description:
+ * Prefix "not" unless string already starts with "not".
+ *
+ * Author: <Your Name>
+*/
+ 
+/*
+ * CodingBat → Warmup-1 → missingChar
+ * https://codingbat.com/prob/p190570
+ *
+ * Description:
+ * Remove and return string without index char.
+ *
+ * Author: <Your Name>
+*/
+ 
+/*
+ * CodingBat → Warmup-1 → frontBack
+ * https://codingbat.com/prob/p123384
+ *
+ * Description:
+ * Swap first and last chars of the string.
+ *
+ * Author: <Your Name>
+*/
+ 
+/*
+ * CodingBat → Warmup-1 → front3
+ * https://codingbat.com/prob/p136351
+ *
+ * Description:
+ * Return 3 copies of the first 3 chars.
+ *
+ * Author: <Your Name>
+*/
