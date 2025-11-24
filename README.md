@@ -97,13 +97,5 @@ Special thanks to **CodingBat** for providing a great collection of Java practic
 ```
 
 ---
-
-If you want, I can also:
-
-✅ Make a **more professional** version aimed at employers  
-✅ Make a **minimal** aesthetic version  
-✅ Make a **fun / personality-filled** version  
-✅ Add badges, progress tables, or problem completion checklists  
-
 Just tell me!
 ```
