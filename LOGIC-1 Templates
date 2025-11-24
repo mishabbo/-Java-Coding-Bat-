@@ -1,0 +1,91 @@
+/* ==================== Logic-1 Templates ==================== */
+
+/*
+ * CodingBat → Logic-1 → cigarParty
+ * https://codingbat.com/prob/p195669
+ *
+ * Description:
+ * Successful party if 40–60 cigars; no upper limit on weekends.
+ *
+ * Author: <Your Name>
+*/
+
+/*
+ * CodingBat → Logic-1 → dateFashion
+ * https://codingbat.com/prob/p103360
+ *
+ * Description:
+ * Return table score 0, 1, or 2 based on style ratings.
+ *
+ * Author: <Your Name>
+*/
+
+/*
+ * CodingBat → Logic-1 → squirrelPlay
+ * https://codingbat.com/prob/p135815
+ *
+ * Description:
+ * Squirrels play if temperature is 60–90; up to 100 in summer.
+ *
+ * Author: <Your Name>
+*/
+
+/*
+ * CodingBat → Logic-1 → caughtSpeeding
+ * https://codingbat.com/prob/p148982
+ *
+ * Description:
+ * Return speeding ticket code depending on speed and birthday.
+ *
+ * Author: <Your Name>
+*/
+
+/*
+ * CodingBat → Logic-1 → sortaSum
+ * https://codingbat.com/prob/p130788
+ *
+ * Description:
+ * Return sum, unless 10–19, then return 20.
+ *
+ * Author: <Your Name>
+*/
+
+/*
+ * CodingBat → Logic-1 → alarmClock
+ * https://codingbat.com/prob/p119867
+ *
+ * Description:
+ * Return correct alarm time depending on day and vacation.
+ *
+ * Author: <Your Name>
+*/
+
+/*
+ * CodingBat → Logic-1 → love6
+ * https://codingbat.com/prob/p100958
+ *
+ * Description:
+ * Return true if either is 6 or diff/sum is 6.
+ *
+ * Author: <Your Name>
+*/
+
+/*
+ * CodingBat → Logic-1 → in1To10
+ * https://codingbat.com/prob/p118077
+ *
+ * Description:
+ * Return true if in 1..10, unless outsideMode.
+ *
+ * Author: <Your Name>
+*/
+
+/*
+ * CodingBat → Logic-1 → specialEleven
+ * https://codingbat.com/prob/p186759
+ *
+ * Description:
+ * Return true if num mod 11 is 0 or 1.
+ *
+ * Author: <Your Name>
+*/
