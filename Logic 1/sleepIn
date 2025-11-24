@@ -1,1 +1,9 @@
-i will upfate this later
+/*
+ * CodingBat → Warmup-1 → sleepIn
+ * https://codingbat.com/prob/p187868
+ *
+ * Description:
+ * Return true if we sleep in when it's not a weekday or we're on vacation.
+*/
+
+
