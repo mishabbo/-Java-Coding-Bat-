@@ -12,7 +12,7 @@ All solutions are grouped by their original CodingBat categories so you can easi
 
 Each folder corresponds to a CodingBat Java problem set:
 
-```
+
 
 warmup-1/
 warmup-2/
@@ -31,7 +31,7 @@ recursion-1/
 recursion-2/
 AP-1/
 
-````
+
 
 Inside every folder, each `.java` file represents a single CodingBat problem.
 
